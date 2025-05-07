@@ -15,7 +15,7 @@ Este proyecto utiliza Karate Framework para realizar pruebas automatizadas
 
 
 3. Instrucciones para ejecutar los test
-   ** Antes de comenzar, descarga el repositorio desde el siguiente enlace (  ) y guárdalo en una carpeta local. Luego, abre el proyecto en IntelliJ IDEA y accede al terminal en el ID para ejecutar los comandos indicados previamente.
+   ** Antes de comenzar, descarga el repositorio desde el siguiente enlace ( https://github.com/AndresRomeroCollaguazo/Karate-PetShop ) y guárdalo en una carpeta local. Luego, abre el proyecto en IntelliJ IDEA y accede al terminal en el ID para ejecutar los comandos indicados previamente.
 
 4. Información adicional
    (1)  Carga de archivos:         Se ejecutó el primer test, donde se reflejó la correcta inserción de los datos de las mascotas en el sistema.
@@ -25,6 +25,6 @@ Este proyecto utiliza Karate Framework para realizar pruebas automatizadas
 
 5. El archivo html se encuentra en la siguiente ruta: target\karate-reports\res\TestPet.html
 
-6. REPO: 
+6. REPO: https://github.com/AndresRomeroCollaguazo/Karate-PetShop
 
 
