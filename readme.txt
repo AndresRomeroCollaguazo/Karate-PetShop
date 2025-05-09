@@ -1,3 +1,4 @@
+Video de corecta ejecucion> https://youtu.be/dNt5CpibCRk
 --------------------------------------------------------------------------
 Este proyecto utiliza Karate Framework para realizar pruebas automatizadas 
 --------------------------------------------------------------------------
