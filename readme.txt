@@ -3,6 +3,8 @@ Video de corecta ejecucion> https://youtu.be/dNt5CpibCRk
 Este proyecto utiliza Karate Framework para realizar pruebas automatizadas 
 --------------------------------------------------------------------------
 
+La direccion de las carpeta con el .html para ver la ejecicion de las preubas es: target/karate-reports/res/testPet.html
+
 1. Requisitos:
     - Maquina local con el sistema operativo Windows 10 en adelante
     - java version "17.0.12"
